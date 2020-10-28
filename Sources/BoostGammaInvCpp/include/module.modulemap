@@ -1,0 +1,4 @@
+module BoostGammaInvCpp {
+    header "BoostGammaInvCpp.h"
+    export *
+}
